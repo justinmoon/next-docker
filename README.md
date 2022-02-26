@@ -1,4 +1,14 @@
-# Instructions
+# Run
+
+After running `docker.js`, a `whoami` service will run for 10 seconds on [http://localhost:3008](http://localhost:3008).
+
+
+```sh
+npm i
+node docker.js
+```
+
+# Notes to self
 
 Build:
 
